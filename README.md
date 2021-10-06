@@ -1,5 +1,5 @@
 # VueJS
-Aprendendo sobre......
+Aprendendo sobre Vue.js
 
 - https://cli.vuejs.org/
 
