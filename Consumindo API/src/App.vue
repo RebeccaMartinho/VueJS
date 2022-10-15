@@ -10,11 +10,10 @@
           <label>Name</label>
           <input type="text" placeholder="Name" v-model="todos.name">
           <label>Description</label>
-          <input type="text" placeholder="description" v-model="todos.description">
+          <input type="text" placeholder="Description" v-model="todos.description">
           
           <button class="waves-effect waves-light btn-small">Salvar<i class="material-icons left">save</i></button>
       </form>
-      <button class="waves-effect waves-light btn-small" @click="teste(url)">google<i class="material-icons left">save</i></button>
       <table>
         <thead>
           <tr>
